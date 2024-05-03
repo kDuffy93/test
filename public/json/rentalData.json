@@ -1,0 +1,67 @@
+{
+    "1": {
+        "stratifiedArea": "Alliston/Bradford",
+        "municipality": "Bradford West",
+        "streetNumber": "280",
+        "streetName": "MILLER PARK AVE",
+        "housingType": "House",
+        "unitSize": "2 Bedrooms",
+        "secondarySuite": "Yes",
+        "monthlyRent": "$2,300",
+        "utilitiesIncluded": "Yes",
+        "landlordType": "Private",
+        "stability": "Over 1 year"
+    },
+    "2": {
+        "stratifiedArea": "Barrie",
+        "municipality": "Springwater",
+        "streetNumber": "25",
+        "streetName": "SWEET CICELY ST",
+        "housingType": "House",
+        "unitSize": "4 Bedrooms",
+        "secondarySuite": "No",
+        "monthlyRent": "$2,975",
+        "utilitiesIncluded": "No",
+        "landlordType": "Private",
+        "stability": "6 months to 12 months"
+    },
+    "3":  {
+        "stratifiedArea": "Collingwood",
+        "municipality": "Collingwood",
+        "streetNumber": "460",
+        "streetName": "ONTARIO Street Unit #603",
+        "housingType": "Apartment",
+        "unitSize": "2 Bedrooms",
+        "secondarySuite": "No",
+        "monthlyRent": "$2,100",
+        "utilitiesIncluded": "Yes",
+        "landlordType": "Not Stated",
+        "stability": "Less than 6 months"
+    },
+    "4":  {
+        "stratifiedArea": "Midland",
+        "municipality": "Midland",
+        "streetNumber": "652",
+        "streetName": "NORMAN CRES",
+        "housingType": "House",
+        "unitSize": "4 Bedrooms",
+        "secondarySuite": "Yes",
+        "monthlyRent": "$2,800",
+        "utilitiesIncluded": "No",
+        "landlordType": "Not Stated",
+        "stability": "Winter (Seasonal Rental)"
+    },
+    "5": {
+        "stratifiedArea": "Orillia",
+        "municipality": "Orillia",
+        "streetNumber": "189",
+        "streetName": "ISABELLA DR",
+        "housingType": "Attached",
+        "unitSize": "3 Bedrooms",
+        "secondarySuite": "Yes",
+        "monthlyRent": "$2,700",
+        "utilitiesIncluded": "Yes",
+        "landlordType": "Private",
+        "stability": "Over 1 year"
+    }
+}
